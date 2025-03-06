@@ -1,0 +1,65 @@
+./mm_run.py 1zug --platform CPU --steps 100 --tempStart 400 --tempEnd 400 -m 0 -f forces_setup.py --r 10
+./mm_run.py 1zug --platform CPU --steps 100 --tempStart 400 --tempEnd 400 -m 0 -f forces_setup.py --r 10
+./mm_run.py 1zug --platform CPU --steps 100 --tempStart 400 --tempEnd 400 -m 0 -f forces_setup.py --r 10
+./mm_run.py 1zug --platform CPU --steps 100 --tempStart 400 --tempEnd 400 -m 0 -f forces_setup.py --r 10
+./mm_run.py 1zug --platform CPU --steps 100 --tempStart 400 --tempEnd 400 -m 0 -f forces_setup.py --r 10
+/home/jcuellar/1zug_add/./mm_run.py 1zug --platform CPU --steps 100000 --tempStart 200 --tempEnd 200 -m 0 -f forces_setup.py --r 100 --timeStep 2
+/home/jcuellar/1zug_awsem_curva_T_ss1/./mm_run.py 1zug_D --steps 5000000 --tempStart 10000 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/1zug_awsem_curva_T_ss1/./mm_run.py 1zug_D --steps 5000000 --tempStart 1000 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/1zug_awsem_curva_T_ss1/./mm_run.py 1zug_D --steps 5000000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/1zug_awsem_curva_T_ss1_1/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH2/./mm_run.py 1zug_D --steps 5000000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH2/./mm_run.py 1zug_D --steps 5000000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+./mm_run.py 1zug_D --steps 500 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 500 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 500 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 5000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 5000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 5000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 5000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 5000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+./mm_run.py 1zug_D --platform CPU --steps 5000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH2/./mm_run.py 1zug_D --steps 5000000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH2/./mm_run.py 1zug_D --steps 5000000 --tempStart 1400 --tempEnd 400 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+/home/jcuellar/replicas_awsem/curva_pH/1zug_awsem_curva_T_ss1_pH7/./mm_run.py 1zug_D --steps 5000000 --tempStart 1200 --tempEnd 200 -m 1 -f forces_setup.py --r 5000 --timeStep 2
+./mm_run.py 1zug --platform CPU --steps 1000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 1000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 1000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 1000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 1000
+./mm_run.py 1zug --platform CPU --steps 10000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 100000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 5000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 5000000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 5000000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 5000000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 500000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 50000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
+./mm_run.py 1zug --platform CPU --steps 50000 --tempStart 700 --tempEnd 900 -m 1 -f forces_setup.py --r 100
